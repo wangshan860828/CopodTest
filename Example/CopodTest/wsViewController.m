@@ -25,5 +25,10 @@
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
+    
+- (IBAction)clickAction:(id)sender {
+    self.tipLbl.text = @"haha you click me!";
+    self.tipLbl.backgroundColor = [UIColor greenColor];
+}
 
 @end

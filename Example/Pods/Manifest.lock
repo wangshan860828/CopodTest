@@ -1,0 +1,16 @@
+PODS:
+  - CopodTest (0.1.0)
+
+DEPENDENCIES:
+  - CopodTest (from `../`)
+
+EXTERNAL SOURCES:
+  CopodTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CopodTest: cf4d521fd899a46282d1b06586fa95612f73dabb
+
+PODFILE CHECKSUM: eb5e85535e995e33ca81f22ca4c5bc11a2aba725
+
+COCOAPODS: 1.5.3

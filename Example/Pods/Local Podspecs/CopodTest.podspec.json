@@ -1,0 +1,22 @@
+{
+  "name": "CopodTest",
+  "version": "0.1.0",
+  "summary": "A short description of CopodTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/John Doe/CopodTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "John Doe": "jdoe@email.com"
+  },
+  "source": {
+    "git": "https://github.com/John Doe/CopodTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CopodTest/Classes/**/*"
+}

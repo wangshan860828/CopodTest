@@ -9,5 +9,7 @@
 @import UIKit;
 
 @interface wsViewController : UIViewController
+    
+@property (nonatomic, weak) IBOutlet UILabel *tipLbl;
 
 @end
